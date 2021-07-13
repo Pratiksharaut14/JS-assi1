@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg");
+  font-family: sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  margin-top: 250px;
+  color: #004953;
+  font-size: 45px;
+  text-align: center;
+  text-shadow: 4px 4px 5px blue;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  background-color: #002d62;
+  color: white;
+}
+
+.but {
+  margin-top: 50px;
+  margin-left: 370px;
+}
+
+button:hover {
+  background-color: white;
+  color: #002d62;
+}
